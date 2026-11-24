@@ -1,3 +1,22 @@
+
+## My Contribution – Driver & Vehicle Service
+
+This repository is a fork of the RideLink university
+team project.
+
+My assigned responsibility was the Driver & Vehicle
+Service component of the backend.
+
+I contributed to the development and integration
+of this service as part of the team's microservices
+architecture.
+
+### Project Context
+- Project: RideLink
+- Type: University Group Project
+- Architecture: Microservices
+- My Role: Driver & Vehicle Service
+
 # RideLink — Java Spring Boot Microservices
 
 Backend implementation for the IT3130 Application Development group assignment.
